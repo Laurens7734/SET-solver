@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Solver", "Set Solver\Set Solver.csproj", "{C13D9B8F-B532-4D88-B984-781561CC002E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Solver", "ShapeCardSolver\Set Solver.csproj", "{C13D9B8F-B532-4D88-B984-781561CC002E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

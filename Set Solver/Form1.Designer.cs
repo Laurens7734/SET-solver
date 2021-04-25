@@ -1,4 +1,4 @@
-﻿namespace ShapeCardSolver
+﻿namespace SetSolver
 {
     partial class ShapeCardSolver
     {

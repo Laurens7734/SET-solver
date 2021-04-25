@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ShapeCardSolver
+namespace SetSolver
 {
     public partial class ShapeCardSolver : Form
     {
